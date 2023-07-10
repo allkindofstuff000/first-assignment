@@ -11,7 +11,7 @@ header {
     background-color: #E554731A;
     width: 1920px;
     height: 850px;
-    display: flex;
+    
 }
 
 .banner {
@@ -43,7 +43,7 @@ header {
     width: 634px;
     text-align: center;
     margin: 32px 0 0 240px;
-    
+
 }
 
 .btn {
@@ -54,4 +54,15 @@ header {
     border-radius: 8px;
     background: #E55473;
     margin: 30px 1503px 0 240px;
+}
+
+.background-pic {
+
+    width: 635px;
+    height: 800px;
+    justify-items: right;
+    
+
+
+
 }
